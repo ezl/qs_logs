@@ -1,0 +1,53 @@
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 2, 2010 at 4:05 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+
+This is an automated message, please do not respond to this email.  If you have questions, please open a support ticket.
+
+You can view or change your alert thresholds under the "Utilities" tab of the Linode Manager.
+
+This is not meant as a warning or a representation that you are misusing your resources.  We encourage you to modify the thresholds based on your own individual needs.
+
+You may access the members' site at <https://www.linode.com/members/>.
+
+Linode: linode59811
+Reply | Reply to all | Forward | Print | Delete | Show original
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 2, 2010 at 6:09 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 101.9% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 2, 2010 at 8:48 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 2, 2010 at 10:19 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 104.2% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sun, Oct 3, 2010 at 12:07 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.6% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sun, Oct 3, 2010 at 2:17 AM
+To: ericzliu@gmail.com 

@@ -1,0 +1,448 @@
+dd star 
+Linode Alerts
+<service@linode.com> Mon, Oct 11, 2010 at 12:06 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.2% for the last 2 hours.
+
+This is an automated message, please do not respond to this email.  If you have questions, please open a support ticket.
+
+You can view or change your alert thresholds under the "Utilities" tab of the Linode Manager.
+
+This is not meant as a warning or a representation that you are misusing your resources.  We encourage you to modify the thresholds based on your own individual needs.
+
+You may access the members' site at <https://www.linode.com/members/>.
+
+Linode: linode59811
+Reply | Reply to all | Forward | Print | Delete | Show original
+
+Add star 
+Linode Alerts
+<service@linode.com>    Mon, Oct 11, 2010 at 2:19 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Mon, Oct 11, 2010 at 4:13 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.2% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Mon, Oct 11, 2010 at 6:23 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Mon, Oct 11, 2010 at 8:31 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Mon, Oct 11, 2010 at 10:11 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.2% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 12:07 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 2:04 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.2% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 4:09 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 6:28 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.9% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 8:20 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 10:07 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.2% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 12:06 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 2:11 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 4:10 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 6:09 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 8:04 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.3% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Tue, Oct 12, 2010 at 10:28 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 12:26 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 2:19 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 4:16 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 6:29 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 8:17 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 10:05 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 12:06 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 100.4% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 2:06 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 4:05 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 6:33 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 8:40 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Wed, Oct 13, 2010 at 10:09 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.3% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 12:11 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 2:08 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 4:16 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 6:04 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.7% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 8:17 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 10:05 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 12:13 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 2:15 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.3% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 4:13 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 6:15 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 8:44 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Thu, Oct 14, 2010 at 10:15 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 12:06 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 2:07 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 4:10 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 6:04 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 8:10 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 10:06 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 12:05 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 2:08 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 4:06 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 6:09 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 101.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 8:07 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.0% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Fri, Oct 15, 2010 at 10:16 PM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 16, 2010 at 12:09 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.6% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 16, 2010 at 2:16 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+Your Linode, quotesentinel, has exceeded the notification threshold (90) for CPU Usage by averaging 102.1% for the last 2 hours.
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 16, 2010 at 4:15 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+- Show quoted text -
+
+Add star 
+Linode Alerts
+<service@linode.com>    Sat, Oct 16, 2010 at 6:26 AM
+To: ericzliu@gmail.com
+Reply | Reply to all | Forward | Print | Delete | Show original
+
