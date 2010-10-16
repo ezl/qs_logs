@@ -1,0 +1,587 @@
+[Wed Sep 15 22:54:32 2010] [error] Init: Unable to read pass phrase [Hint: key introduced or changed before restart?]
+[Wed Sep 15 22:54:32 2010] [error] SSL Library Error: 218710120 error:0D094068:asn1 encoding routines:d2i_ASN1_SET:bad tag
+[Wed Sep 15 22:54:32 2010] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Wed Sep 15 22:54:32 2010] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Wed Sep 15 22:54:32 2010] [error] SSL Library Error: 218734605 error:0D09A00D:asn1 encoding routines:d2i_PrivateKey:ASN1 lib
+[Wed Sep 15 23:43:59 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 15 23:43:59 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 15 18:46:08 2010] [error] Exception KeyError: KeyError(-1218897264,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Sep 15 23:46:09 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 15 18:48:15 2010] [error] Exception KeyError: KeyError(-1218897264,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Sep 15 23:48:15 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 15 23:48:15 2010] [info] mod_wsgi (pid=22008): Attach interpreter ''.
+[Wed Sep 15 23:48:15 2010] [info] mod_wsgi (pid=22008): Enable monitor thread in process 'quotesentinel'.
+[Wed Sep 15 23:48:15 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=22008): Deadlock timeout is 300.
+[Wed Sep 15 23:48:15 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=22008): Inactivity timeout is 0.
+[Wed Sep 15 23:48:15 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=22008): Starting 2 threads in daemon process 'quotesentinel'.
+[Wed Sep 15 23:48:15 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=22008): Starting thread 1 in daemon process 'quotesentinel'.
+[Wed Sep 15 23:48:15 2010] [info] mod_wsgi (pid=22008): Enable deadlock thread in process 'quotesentinel'.
+[Wed Sep 15 23:48:15 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=22008): Starting thread 2 in daemon process 'quotesentinel'.
+[Wed Sep 15 23:48:30 2010] [info] mod_wsgi (pid=22008): Create interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 23:48:30 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22008, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Wed Sep 15 23:48:30 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 23:49:03 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 23:49:27 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 23:49:46 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 23:55:43 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 19:03:19 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22008): Force restart of process 'quotesentinel'.
+[Wed Sep 15 19:03:19 2010] [info] mod_wsgi (pid=22008): Shutdown requested 'quotesentinel'.
+[Thu Sep 16 00:03:19 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22009): Connect after WSGI daemon process restart, attempt #1.
+[Wed Sep 15 19:03:19 2010] [info] mod_wsgi (pid=22008): Stopping process 'quotesentinel'.
+[Wed Sep 15 19:03:19 2010] [info] mod_wsgi (pid=22008): Destroy interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 19:03:19 2010] [info] mod_wsgi (pid=22008): Cleanup interpreter ''.
+[Wed Sep 15 19:03:19 2010] [info] mod_wsgi (pid=22008): Terminating Python.
+[Wed Sep 15 19:03:19 2010] [error] Exception KeyError: KeyError(-1218897264,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:03:19 2010] [info] mod_wsgi (pid=22868): Attach interpreter ''.
+[Thu Sep 16 00:03:19 2010] [info] mod_wsgi (pid=22868): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:03:19 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=22868): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:03:19 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=22868): Deadlock timeout is 300.
+[Thu Sep 16 00:03:19 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=22868): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:03:19 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=22868): Inactivity timeout is 0.
+[Thu Sep 16 00:03:19 2010] [info] mod_wsgi (pid=22868): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:03:19 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=22868): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:03:19 2010] [info] mod_wsgi (pid=22868): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:03:19 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22868, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:03:20 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Thu Sep 16 00:03:23 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 19:04:58 2010] [info] mod_wsgi (pid=22868): Shutdown requested 'quotesentinel'.
+[Wed Sep 15 19:04:58 2010] [info] mod_wsgi (pid=22868): Stopping process 'quotesentinel'.
+[Wed Sep 15 19:04:58 2010] [info] mod_wsgi (pid=22868): Destroy interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 19:04:58 2010] [info] mod_wsgi (pid=22868): Cleanup interpreter ''.
+[Wed Sep 15 19:04:58 2010] [info] mod_wsgi (pid=22868): Terminating Python.
+[Wed Sep 15 19:04:58 2010] [error] Exception KeyError: KeyError(-1218897264,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:05:15 2010] [error] Init: Unable to read pass phrase [Hint: key introduced or changed before restart?]
+[Thu Sep 16 00:05:15 2010] [error] SSL Library Error: 218710120 error:0D094068:asn1 encoding routines:d2i_ASN1_SET:bad tag
+[Thu Sep 16 00:05:15 2010] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Thu Sep 16 00:05:15 2010] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Thu Sep 16 00:05:15 2010] [error] SSL Library Error: 218734605 error:0D09A00D:asn1 encoding routines:d2i_PrivateKey:ASN1 lib
+[Thu Sep 16 00:05:36 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Thu Sep 16 00:05:36 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Thu Sep 16 00:05:36 2010] [info] mod_wsgi (pid=22982): Attach interpreter ''.
+[Thu Sep 16 00:05:36 2010] [info] mod_wsgi (pid=22982): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:05:36 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=22982): Deadlock timeout is 300.
+[Thu Sep 16 00:05:36 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=22982): Inactivity timeout is 0.
+[Thu Sep 16 00:05:36 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=22982): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:05:36 2010] [info] mod_wsgi (pid=22982): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:05:36 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=22982): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:05:36 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=22982): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:05:41 2010] [info] mod_wsgi (pid=22982): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:05:41 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22982, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:05:41 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 19:06:05 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22982): Force restart of process 'quotesentinel'.
+[Wed Sep 15 19:06:05 2010] [info] mod_wsgi (pid=22982): Shutdown requested 'quotesentinel'.
+[Thu Sep 16 00:06:05 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22984): Connect after WSGI daemon process restart, attempt #1.
+[Wed Sep 15 19:06:05 2010] [info] mod_wsgi (pid=22982): Stopping process 'quotesentinel'.
+[Wed Sep 15 19:06:05 2010] [info] mod_wsgi (pid=22982): Destroy interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 19:06:05 2010] [info] mod_wsgi (pid=22982): Cleanup interpreter ''.
+[Wed Sep 15 19:06:05 2010] [info] mod_wsgi (pid=22982): Terminating Python.
+[Wed Sep 15 19:06:05 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:06:06 2010] [info] mod_wsgi (pid=23111): Attach interpreter ''.
+[Thu Sep 16 00:06:06 2010] [info] mod_wsgi (pid=23111): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:06:06 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=23111): Deadlock timeout is 300.
+[Thu Sep 16 00:06:06 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=23111): Inactivity timeout is 0.
+[Thu Sep 16 00:06:06 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=23111): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:06:06 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23111): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:06:06 2010] [info] mod_wsgi (pid=23111): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:06:06 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23111): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:06:06 2010] [info] mod_wsgi (pid=23111): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:06:06 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23111, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231] mod_wsgi (pid=23111): Exception occurred processing WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231] Traceback (most recent call last):
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/env/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 230, in __call__
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     self.load_middleware()
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/env/lib/python2.6/site-packages/django/core/handlers/base.py", line 33, in load_middleware
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     for middleware_path in settings.MIDDLEWARE_CLASSES:
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/env/lib/python2.6/site-packages/django/utils/functional.py", line 276, in __getattr__
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     self._setup()
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/env/lib/python2.6/site-packages/django/conf/__init__.py", line 40, in _setup
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     self._wrapped = Settings(settings_module)
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/env/lib/python2.6/site-packages/django/conf/__init__.py", line 73, in __init__
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     mod = importlib.import_module(self.SETTINGS_MODULE)
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/env/lib/python2.6/site-packages/django/utils/importlib.py", line 35, in import_module
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     __import__(name)
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/quotesentinel/deploy-settings.py", line 1, in <module>
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]     from settings import *
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]   File "/home/quotesentinel/quotesentinel/settings.py", line 10
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]      ('Eric Liu, 'ericzliu@gmail.com'),
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]                          ^
+[Thu Sep 16 00:06:06 2010] [error] [client 98.210.156.231]  SyntaxError: invalid syntax
+[Thu Sep 16 00:06:06 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 634 to 383 : URL /
+[Thu Sep 16 00:08:01 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23111): Force restart of process 'quotesentinel'.
+[Thu Sep 16 00:08:01 2010] [info] mod_wsgi (pid=23111): Shutdown requested 'quotesentinel'.
+[Thu Sep 16 00:08:01 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22983): Connect after WSGI daemon process restart, attempt #1.
+[Thu Sep 16 00:08:01 2010] [info] mod_wsgi (pid=23111): Stopping process 'quotesentinel'.
+[Thu Sep 16 00:08:01 2010] [info] mod_wsgi (pid=23111): Destroy interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:08:01 2010] [info] mod_wsgi (pid=23111): Cleanup interpreter ''.
+[Thu Sep 16 00:08:01 2010] [info] mod_wsgi (pid=23111): Terminating Python.
+[Thu Sep 16 00:08:01 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:08:02 2010] [info] mod_wsgi (pid=23187): Attach interpreter ''.
+[Thu Sep 16 00:08:02 2010] [info] mod_wsgi (pid=23187): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:08:02 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=23187): Deadlock timeout is 300.
+[Thu Sep 16 00:08:02 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=23187): Inactivity timeout is 0.
+[Thu Sep 16 00:08:02 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=23187): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:08:02 2010] [info] mod_wsgi (pid=23187): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:08:02 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23187): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:08:02 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23187): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:08:02 2010] [info] mod_wsgi (pid=23187): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:08:02 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23187, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:08:02 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Thu Sep 16 00:09:51 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 19:37:48 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23187): Force restart of process 'quotesentinel'.
+[Wed Sep 15 19:37:48 2010] [info] mod_wsgi (pid=23187): Shutdown requested 'quotesentinel'.
+[Thu Sep 16 00:37:48 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22983): Connect after WSGI daemon process restart, attempt #1.
+[Wed Sep 15 19:37:48 2010] [info] mod_wsgi (pid=23187): Stopping process 'quotesentinel'.
+[Wed Sep 15 19:37:48 2010] [info] mod_wsgi (pid=23187): Destroy interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 19:37:48 2010] [info] mod_wsgi (pid=23187): Cleanup interpreter ''.
+[Wed Sep 15 19:37:49 2010] [info] mod_wsgi (pid=23187): Terminating Python.
+[Wed Sep 15 19:37:49 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:37:49 2010] [info] mod_wsgi (pid=23625): Attach interpreter ''.
+[Thu Sep 16 00:37:49 2010] [info] mod_wsgi (pid=23625): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:37:49 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=23625): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:37:49 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=23625): Deadlock timeout is 300.
+[Thu Sep 16 00:37:49 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23625): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:37:49 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=23625): Inactivity timeout is 0.
+[Thu Sep 16 00:37:49 2010] [info] mod_wsgi (pid=23625): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:37:49 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23625): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:37:49 2010] [info] mod_wsgi (pid=23625): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:37:49 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23625, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:37:49 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 19:39:15 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23625): Force restart of process 'quotesentinel'.
+[Wed Sep 15 19:39:15 2010] [info] mod_wsgi (pid=23625): Shutdown requested 'quotesentinel'.
+[Thu Sep 16 00:39:15 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22984): Connect after WSGI daemon process restart, attempt #1.
+[Wed Sep 15 19:39:15 2010] [info] mod_wsgi (pid=23625): Stopping process 'quotesentinel'.
+[Wed Sep 15 19:39:15 2010] [info] mod_wsgi (pid=23625): Destroy interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 19:39:15 2010] [info] mod_wsgi (pid=23625): Cleanup interpreter ''.
+[Wed Sep 15 19:39:15 2010] [info] mod_wsgi (pid=23625): Terminating Python.
+[Wed Sep 15 19:39:15 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:39:16 2010] [info] mod_wsgi (pid=23643): Attach interpreter ''.
+[Thu Sep 16 00:39:16 2010] [info] mod_wsgi (pid=23643): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:39:16 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=23643): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:39:16 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=23643): Deadlock timeout is 300.
+[Thu Sep 16 00:39:16 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23643): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:39:16 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=23643): Inactivity timeout is 0.
+[Thu Sep 16 00:39:16 2010] [info] mod_wsgi (pid=23643): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:39:16 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23643): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:39:16 2010] [info] mod_wsgi (pid=23643): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:39:16 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23643, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:39:16 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Thu Sep 16 00:49:01 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 53 to 55 : URL /
+[Wed Sep 15 19:49:53 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23643): Force restart of process 'quotesentinel'.
+[Wed Sep 15 19:49:53 2010] [info] mod_wsgi (pid=23643): Shutdown requested 'quotesentinel'.
+[Thu Sep 16 00:49:53 2010] [info] [client 98.210.156.231] mod_wsgi (pid=22984): Connect after WSGI daemon process restart, attempt #1.
+[Wed Sep 15 19:49:53 2010] [info] mod_wsgi (pid=23643): Stopping process 'quotesentinel'.
+[Wed Sep 15 19:49:53 2010] [info] mod_wsgi (pid=23643): Destroy interpreter 'www.quotesentinel.com|'.
+[Wed Sep 15 19:49:53 2010] [info] mod_wsgi (pid=23643): Cleanup interpreter ''.
+[Wed Sep 15 19:49:53 2010] [info] mod_wsgi (pid=23643): Terminating Python.
+[Wed Sep 15 19:49:53 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Thu Sep 16 00:49:53 2010] [info] mod_wsgi (pid=23977): Attach interpreter ''.
+[Thu Sep 16 00:49:53 2010] [info] mod_wsgi (pid=23977): Enable monitor thread in process 'quotesentinel'.
+[Thu Sep 16 00:49:53 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=23977): Deadlock timeout is 300.
+[Thu Sep 16 00:49:53 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=23977): Starting 2 threads in daemon process 'quotesentinel'.
+[Thu Sep 16 00:49:53 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=23977): Inactivity timeout is 0.
+[Thu Sep 16 00:49:53 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23977): Starting thread 1 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:49:53 2010] [info] mod_wsgi (pid=23977): Enable deadlock thread in process 'quotesentinel'.
+[Thu Sep 16 00:49:53 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=23977): Starting thread 2 in daemon process 'quotesentinel'.
+[Thu Sep 16 00:49:53 2010] [info] mod_wsgi (pid=23977): Create interpreter 'www.quotesentinel.com|'.
+[Thu Sep 16 00:49:53 2010] [info] [client 98.210.156.231] mod_wsgi (pid=23977, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Thu Sep 16 00:49:54 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 6979 to 2637 : URL /
+[Thu Sep 16 00:49:54 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://test.quotesentinel.com/
+[Thu Sep 16 00:49:54 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://test.quotesentinel.com/
+[Thu Sep 16 00:49:54 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://test.quotesentinel.com/
+[Thu Sep 16 00:49:54 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://test.quotesentinel.com/
+[Thu Sep 16 01:02:25 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 6979 to 2637 : URL /
+[Thu Sep 16 01:19:40 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 0 to 2 : URL /monitor, referer: http://test.quotesentinel.com/
+[Thu Sep 16 01:19:40 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 0 to 2 : URL /monitor/, referer: http://test.quotesentinel.com/
+[Thu Sep 16 01:19:40 2010] [debug] mod_deflate.c(615): [client 98.210.156.231] Zlib: Compressed 3818 to 1400 : URL /accounts/login/, referer: http://test.quotesentinel.com/
+[Thu Sep 16 13:40:32 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 6979 to 2637 : URL /
+[Thu Sep 16 13:40:32 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://test.quotesentinel.com/
+[Thu Sep 16 13:40:32 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://test.quotesentinel.com/
+[Thu Sep 16 13:40:32 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://test.quotesentinel.com/
+[Thu Sep 16 13:40:32 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://test.quotesentinel.com/
+[Thu Sep 16 13:40:32 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 2595 to 1141 : URL /favicon.ico
+[Thu Sep 16 13:40:35 2010] [debug] mod_deflate.c(615): [client 76.29.38.47] Zlib: Compressed 2595 to 1141 : URL /favicon.ico
+[Fri Sep 17 08:47:09 2010] [info] [client 66.28.82.18] mod_wsgi (pid=23977): Force restart of process 'quotesentinel'.
+[Fri Sep 17 08:47:09 2010] [info] mod_wsgi (pid=23977): Shutdown requested 'quotesentinel'.
+[Fri Sep 17 13:47:09 2010] [info] [client 66.28.82.18] mod_wsgi (pid=22983): Connect after WSGI daemon process restart, attempt #1., referer: http://quotesentinel.com/monitor/
+[Fri Sep 17 08:47:09 2010] [info] mod_wsgi (pid=23977): Stopping process 'quotesentinel'.
+[Fri Sep 17 08:47:09 2010] [info] mod_wsgi (pid=23977): Destroy interpreter 'www.quotesentinel.com|'.
+[Fri Sep 17 08:47:09 2010] [info] mod_wsgi (pid=23977): Cleanup interpreter ''.
+[Fri Sep 17 08:47:09 2010] [info] mod_wsgi (pid=23977): Terminating Python.
+[Fri Sep 17 08:47:09 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Fri Sep 17 13:47:10 2010] [info] mod_wsgi (pid=31568): Attach interpreter ''.
+[Fri Sep 17 13:47:10 2010] [debug] mod_wsgi.c(8702): mod_wsgi (pid=31568): Starting 2 threads in daemon process 'quotesentinel'.
+[Fri Sep 17 13:47:10 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=31568): Starting thread 1 in daemon process 'quotesentinel'.
+[Fri Sep 17 13:47:10 2010] [info] mod_wsgi (pid=31568): Enable monitor thread in process 'quotesentinel'.
+[Fri Sep 17 13:47:10 2010] [info] mod_wsgi (pid=31568): Enable deadlock thread in process 'quotesentinel'.
+[Fri Sep 17 13:47:10 2010] [debug] mod_wsgi.c(8542): mod_wsgi (pid=31568): Deadlock timeout is 300.
+[Fri Sep 17 13:47:10 2010] [debug] mod_wsgi.c(8545): mod_wsgi (pid=31568): Inactivity timeout is 0.
+[Fri Sep 17 13:47:10 2010] [debug] mod_wsgi.c(8708): mod_wsgi (pid=31568): Starting thread 2 in daemon process 'quotesentinel'.
+[Fri Sep 17 13:47:10 2010] [info] mod_wsgi (pid=31568): Create interpreter 'www.quotesentinel.com|'.
+[Fri Sep 17 13:47:10 2010] [info] [client 66.28.82.18] mod_wsgi (pid=31568, process='quotesentinel', application='www.quotesentinel.com|'): Loading WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Fri Sep 17 13:52:28 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/76
+[Fri Sep 17 13:52:30 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 13:52:30 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 13:52:31 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 13:52:32 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 13:52:39 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 13:57:02 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 5240 to 1768 : URL /contact/
+[Fri Sep 17 14:09:05 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/204
+[Fri Sep 17 14:12:22 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/331
+[Fri Sep 17 14:14:15 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 0 to 2 : URL /register
+[Fri Sep 17 14:14:16 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 0 to 2 : URL /register/
+[Fri Sep 17 14:14:17 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Fri Sep 17 14:14:21 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Fri Sep 17 14:15:39 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/331
+[Fri Sep 17 14:26:29 2010] [debug] mod_deflate.c(615): [client 122.169.6.16] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.google.co.in/url?sa=t&source=web&cd=24&ved=0CCcQFjADOBQ&url=http%3A%2F%2Fwww.quotesentinel.com%2F&rct=j&q=sms%20stock%20alerts&ei=jnqTTOuSHoiGvAPi6bTmCw&usg=AFQjCNGxEUZp169EY-xPuA3tgA-WAnQu4g
+[Fri Sep 17 14:26:30 2010] [debug] mod_deflate.c(615): [client 122.169.6.16] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 14:26:30 2010] [debug] mod_deflate.c(615): [client 122.169.6.16] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 14:26:30 2010] [debug] mod_deflate.c(615): [client 122.169.6.16] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 14:26:30 2010] [debug] mod_deflate.c(615): [client 122.169.6.16] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 14:26:35 2010] [debug] mod_deflate.c(615): [client 122.169.6.16] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 14:36:41 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/456
+[Fri Sep 17 15:02:37 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 5840 to 2111 : URL /tour/, referer: http://www.quotesentinel.com/plans/
+[Fri Sep 17 15:02:40 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 15:08:05 2010] [debug] mod_deflate.c(615): [client 67.195.113.239] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Fri Sep 17 15:08:12 2010] [debug] mod_deflate.c(615): [client 72.30.142.217] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Fri Sep 17 15:08:16 2010] [debug] mod_deflate.c(615): [client 216.24.142.47] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 15:12:47 2010] [debug] mod_deflate.c(615): [client 64.13.147.187] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 15:21:29 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 5840 to 2111 : URL /tour/, referer: http://www.quotesentinel.com/plans/
+[Fri Sep 17 15:21:31 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 15:45:25 2010] [debug] mod_deflate.c(615): [client 66.249.71.140] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 16:03:44 2010] [debug] mod_deflate.c(615): [client 95.177.61.254] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 16:09:54 2010] [debug] mod_deflate.c(615): [client 72.14.199.85] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Fri Sep 17 16:56:51 2010] [debug] mod_deflate.c(615): [client 207.46.13.97] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 17:32:52 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 0 to 2 : URL /tour
+[Fri Sep 17 17:32:54 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 5840 to 2111 : URL /tour/
+[Fri Sep 17 17:32:56 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://quotesentinel.com/tour/
+[Fri Sep 17 17:32:58 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://quotesentinel.com/tour/
+[Fri Sep 17 17:38:13 2010] [debug] mod_deflate.c(615): [client 84.146.129.119] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.onlinespiele24.org/files/onlinespiele/towerdefense/MillionDollarTD.swf
+[Fri Sep 17 17:39:50 2010] [debug] mod_deflate.c(615): [client 84.146.129.119] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.onlinespiele24.org/files/onlinespiele/towerdefense/MillionDollarTD.swf
+[Fri Sep 17 17:39:50 2010] [debug] mod_deflate.c(615): [client 84.146.129.119] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:39:50 2010] [debug] mod_deflate.c(615): [client 84.146.129.119] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:39:50 2010] [debug] mod_deflate.c(615): [client 84.146.129.119] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:39:50 2010] [debug] mod_deflate.c(615): [client 84.146.129.119] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:41:08 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 17:44:51 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 17:44:51 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:44:51 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:44:51 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:48:21 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 17:48:21 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:48:21 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:51:02 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 17:51:02 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:51:02 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 17:55:13 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 17:58:43 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 17:58:44 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:02:29 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:02:30 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:02:58 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:02:59 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:03:01 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:03:02 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:03:03 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:03:04 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:03:19 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:03:20 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:03:28 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:03:28 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:03:43 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:05:49 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:05:59 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:06:00 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:07:45 2010] [debug] mod_deflate.c(615): [client 92.200.236.25] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/seiten/td/million-dollar-td.php
+[Fri Sep 17 18:19:25 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 18:19:25 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:19:25 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:19:25 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:19:25 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 18:19:26 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 18:19:30 2010] [debug] mod_deflate.c(615): [client 208.248.33.30] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /monitor
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /monitor/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /plans
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /tour
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 10132 to 3038 : URL /help/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /register
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 19173 to 7710 : URL /terms/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 5240 to 1768 : URL /contact/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /monitor/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 3990 to 1434 : URL /accounts/login/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 7646 to 2299 : URL /plans/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 5840 to 2111 : URL /tour/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 0 to 2 : URL /register/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 7646 to 2299 : URL /plans/
+[Fri Sep 17 18:21:10 2010] [debug] mod_deflate.c(615): [client 74.125.75.1] Zlib: Compressed 3990 to 1434 : URL /accounts/login/
+[Fri Sep 17 18:25:12 2010] [debug] mod_deflate.c(615): [client 64.74.98.14] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 18:25:13 2010] [debug] mod_deflate.c(615): [client 64.74.98.14] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 18:58:09 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 19:04:52 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 0 to 2 : URL /plans
+[Fri Sep 17 19:04:53 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 7646 to 2299 : URL /plans/
+[Fri Sep 17 19:12:41 2010] [debug] mod_deflate.c(615): [client 220.181.94.233] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 0 to 2 : URL /monitor/
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 3990 to 1434 : URL /accounts/login/
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://quotesentinel.com/accounts/login/?next=/monitor/
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://quotesentinel.com/accounts/login/?next=/monitor/
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://quotesentinel.com/accounts/login/?next=/monitor/
+[Fri Sep 17 19:43:50 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://quotesentinel.com/accounts/login/?next=/monitor/
+[Fri Sep 17 19:43:56 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 19:43:56 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 19:43:57 2010] [debug] mod_deflate.c(615): [client 66.28.82.18] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Fri Sep 17 20:11:47 2010] [debug] mod_deflate.c(615): [client 69.28.149.32] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 20:11:47 2010] [debug] mod_deflate.c(615): [client 69.28.149.32] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 20:40:34 2010] [debug] mod_deflate.c(615): [client 220.181.94.233] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 21:02:13 2010] [debug] mod_deflate.c(615): [client 72.14.199.85] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 22:26:23 2010] [debug] mod_deflate.c(615): [client 99.56.50.98] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1
+[Fri Sep 17 22:26:23 2010] [debug] mod_deflate.c(615): [client 99.56.50.98] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 22:26:23 2010] [debug] mod_deflate.c(615): [client 99.56.50.98] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 22:26:23 2010] [debug] mod_deflate.c(615): [client 99.56.50.98] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 22:26:24 2010] [debug] mod_deflate.c(615): [client 99.56.50.98] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 23:09:17 2010] [debug] mod_deflate.c(615): [client 92.0.216.246] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.spiele-zone.de/media/DateienSpiele/million-dollar-td.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/763
+[Fri Sep 17 23:23:16 2010] [debug] mod_deflate.c(615): [client 173.25.92.239] Zlib: Compressed 7151 to 2669 : URL /
+[Fri Sep 17 23:47:06 2010] [debug] mod_deflate.c(615): [client 124.189.181.183] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.milliondollartowerdefense.com/spritemap.php
+[Fri Sep 17 23:47:06 2010] [debug] mod_deflate.c(615): [client 124.189.181.183] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 23:47:06 2010] [debug] mod_deflate.c(615): [client 124.189.181.183] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Fri Sep 17 23:47:06 2010] [debug] mod_deflate.c(615): [client 124.189.181.183] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Fri Sep 17 23:47:06 2010] [debug] mod_deflate.c(615): [client 124.189.181.183] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 00:15:46 2010] [debug] mod_deflate.c(615): [client 94.100.189.220] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 00:15:46 2010] [debug] mod_deflate.c(615): [client 94.100.189.220] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 00:15:46 2010] [debug] mod_deflate.c(615): [client 94.100.189.220] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 00:15:46 2010] [debug] mod_deflate.c(615): [client 94.100.189.220] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 00:15:46 2010] [debug] mod_deflate.c(615): [client 94.100.189.220] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 00:15:48 2010] [debug] mod_deflate.c(615): [client 94.100.189.220] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 01:35:54 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 01:35:55 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 01:35:59 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 01:40:29 2010] [debug] mod_deflate.c(615): [client 124.115.0.156] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 01:42:26 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 7151 to 2669 : URL /, referer: http://chat.kongregate.com/gamez/0008/4226/live/MillionDollarTD.swf?kongregate_game_version=1277520593
+[Sat Sep 18 01:42:26 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 01:42:26 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 01:42:27 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 01:42:27 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 01:42:33 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 01:43:01 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 7151 to 2669 : URL /, referer: http://chat.kongregate.com/gamez/0008/4226/live/MillionDollarTD.swf?kongregate_game_version=1277520593
+[Sat Sep 18 01:43:03 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 01:46:25 2010] [debug] mod_deflate.c(615): [client 200.102.82.72] Zlib: Compressed 7151 to 2669 : URL /, referer: http://chat.kongregate.com/gamez/0008/4226/live/MillionDollarTD.swf?kongregate_game_version=1277520593
+[Sat Sep 18 03:50:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 7151 to 2669 : URL /, referer: http://twitter.com/quotesentinel?utm_campaign=newfollow20100823&utm_content=profile&utm_medium=email&utm_source=follow
+[Sat Sep 18 03:50:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 03:50:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 03:50:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 03:50:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 03:50:41 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 03:50:44 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 05:10:09 2010] [debug] mod_deflate.c(615): [client 216.24.142.46] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 05:10:54 2010] [debug] mod_deflate.c(615): [client 64.13.147.187] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 05:10:54 2010] [debug] mod_deflate.c(615): [client 64.13.147.187] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 05:58:36 2010] [debug] mod_deflate.c(615): [client 95.108.151.244] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 05:58:36 2010] [debug] mod_deflate.c(615): [client 95.108.151.244] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 05:58:37 2010] [debug] mod_deflate.c(615): [client 95.108.151.244] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 05:58:37 2010] [debug] mod_deflate.c(615): [client 95.108.151.244] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 06:29:36 2010] [debug] mod_deflate.c(615): [client 123.110.244.185] Zlib: Compressed 7151 to 2669 : URL /, referer: http://playdrom.com/games/online/375/million-dollar-tower-defense/milliondollartd.swf/[[DYNAMIC]]/1/[[DYNAMIC]]/190
+[Sat Sep 18 06:29:37 2010] [debug] mod_deflate.c(615): [client 123.110.244.185] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 07:35:13 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 5840 to 2111 : URL /tour/, referer: http://www.quotesentinel.com/plans/
+[Sat Sep 18 07:35:16 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 08:20:13 2010] [debug] mod_deflate.c(615): [client 124.115.6.11] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 08:38:44 2010] [debug] mod_deflate.c(615): [client 124.115.0.156] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 08:38:54 2010] [debug] mod_deflate.c(615): [client 124.115.0.156] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 08:42:45 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 0 to 2 : URL /accounts/login
+[Sat Sep 18 08:42:46 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 3990 to 1434 : URL /accounts/login/
+[Sat Sep 18 08:42:48 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://quotesentinel.com/accounts/login/?next=/monitor/
+[Sat Sep 18 09:34:02 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 5840 to 2111 : URL /tour/, referer: http://www.quotesentinel.com/plans/
+[Sat Sep 18 09:34:05 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 10:55:54 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 10:56:06 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 10:56:29 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 10:56:42 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 0 to 2 : URL /register
+[Sat Sep 18 10:57:09 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 0 to 2 : URL /monitor
+[Sat Sep 18 10:57:38 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 0 to 2 : URL /tour
+[Sat Sep 18 10:57:54 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 0 to 2 : URL /plans
+[Sat Sep 18 10:58:25 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 10132 to 3038 : URL /help/
+[Sat Sep 18 10:58:47 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 7646 to 2299 : URL /plans/
+[Sat Sep 18 10:59:15 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 5240 to 1768 : URL /contact/
+[Sat Sep 18 10:59:45 2010] [debug] mod_deflate.c(615): [client 38.99.96.72] Zlib: Compressed 0 to 2 : URL /monitor/
+[Sat Sep 18 11:50:56 2010] [debug] mod_deflate.c(615): [client 207.46.195.239] Zlib: Compressed 2767 to 1173 : URL /beta/
+[Sat Sep 18 13:00:01 2010] [debug] mod_deflate.c(615): [client 207.46.195.235] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 14:00:10 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /verify/
+[Sat Sep 18 14:00:13 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 3990 to 1434 : URL /accounts/login/
+[Sat Sep 18 14:29:12 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 5840 to 2111 : URL /tour/, referer: http://www.quotesentinel.com/plans/
+[Sat Sep 18 14:29:15 2010] [debug] mod_deflate.c(615): [client 118.112.47.252] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 15:17:45 2010] [debug] mod_deflate.c(615): [client 66.249.71.140] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 15:22:25 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /profile/
+[Sat Sep 18 15:22:27 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 3990 to 1434 : URL /accounts/login/
+[Sat Sep 18 15:32:45 2010] [debug] mod_deflate.c(615): [client 124.115.4.190] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 15:32:56 2010] [debug] mod_deflate.c(615): [client 124.115.4.190] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:34:10 2010] [debug] mod_deflate.c(615): [client 76.87.49.213] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 16:43:10 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 16:43:11 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:43:11 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:43:11 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:43:11 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:44:01 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 7646 to 2299 : URL /plans/, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:44:16 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 0 to 2 : URL /register/professional, referer: http://www.quotesentinel.com/plans/
+[Sat Sep 18 16:44:22 2010] [debug] mod_deflate.c(615): [client 120.84.51.41] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js
+[Sat Sep 18 16:59:35 2010] [debug] mod_deflate.c(615): [client 174.23.167.124] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.milliondollartowerdefense.com/
+[Sat Sep 18 16:59:35 2010] [debug] mod_deflate.c(615): [client 174.23.167.124] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:59:35 2010] [debug] mod_deflate.c(615): [client 174.23.167.124] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:59:35 2010] [debug] mod_deflate.c(615): [client 174.23.167.124] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 16:59:36 2010] [debug] mod_deflate.c(615): [client 174.23.167.124] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 17:09:48 2010] [debug] mod_deflate.c(615): [client 94.212.2.37] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.skoftenmedia.com/games/290610-million_dollar_tower_defense.swf
+[Sat Sep 18 17:09:49 2010] [debug] mod_deflate.c(615): [client 94.212.2.37] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 17:09:49 2010] [debug] mod_deflate.c(615): [client 94.212.2.37] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 17:09:49 2010] [debug] mod_deflate.c(615): [client 94.212.2.37] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 17:09:49 2010] [debug] mod_deflate.c(615): [client 94.212.2.37] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 18:11:19 2010] [debug] mod_deflate.c(615): [client 72.14.199.85] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 18:11:19 2010] [debug] mod_deflate.c(615): [client 72.14.199.85] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 18:24:38 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 7151 to 2669 : URL /, referer: http://www.vgames.bg/igra/strategicheski-igri/13496/million-dollar-tower-defense
+[Sat Sep 18 18:24:39 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 18:24:39 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sat Sep 18 18:24:39 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 18:24:39 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sat Sep 18 18:24:42 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 18:24:42 2010] [debug] mod_deflate.c(615): [client 77.78.143.119] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 19:18:04 2010] [debug] mod_deflate.c(615): [client 95.108.150.235] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 19:18:04 2010] [debug] mod_deflate.c(615): [client 95.108.150.235] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 19:18:05 2010] [debug] mod_deflate.c(615): [client 95.108.150.235] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 19:18:05 2010] [debug] mod_deflate.c(615): [client 95.108.150.235] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 19:35:13 2010] [debug] mod_deflate.c(615): [client 216.24.142.46] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 19:35:45 2010] [debug] mod_deflate.c(615): [client 64.13.147.187] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 20:11:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 20:14:39 2010] [debug] mod_deflate.c(615): [client 75.73.196.242] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 20:17:10 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sat Sep 18 20:17:10 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 19173 to 7710 : URL /terms/
+[Sat Sep 18 20:17:11 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://quotesentinel.com/terms/
+[Sat Sep 18 20:17:11 2010] [debug] mod_deflate.c(615): [client 67.195.112.251] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://quotesentinel.com/terms/
+[Sat Sep 18 20:36:21 2010] [debug] mod_deflate.c(615): [client 64.233.172.6] Zlib: Compressed 2767 to 1173 : URL /,
+[Sat Sep 18 20:36:23 2010] [debug] mod_deflate.c(615): [client 66.249.82.66] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sat Sep 18 22:22:20 2010] [debug] mod_deflate.c(615): [client 124.115.4.190] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 22:41:06 2010] [debug] mod_deflate.c(615): [client 64.74.98.14] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 22:41:06 2010] [debug] mod_deflate.c(615): [client 69.28.149.32] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 22:41:06 2010] [debug] mod_deflate.c(615): [client 69.28.149.32] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 22:41:06 2010] [debug] mod_deflate.c(615): [client 64.74.98.14] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 22:58:09 2010] [debug] mod_deflate.c(615): [client 66.249.71.140] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 23:08:45 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 5240 to 1768 : URL /contact/
+[Sat Sep 18 23:08:47 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /tour
+[Sat Sep 18 23:11:12 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 5840 to 2111 : URL /tour/
+[Sat Sep 18 23:13:30 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /register/free
+[Sat Sep 18 23:17:29 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 6353 to 2515 : URL /privacy/
+[Sat Sep 18 23:47:54 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /monitor
+[Sun Sep 19 00:10:31 2010] [debug] mod_deflate.c(615): [client 72.14.199.85] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 00:11:14 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 10132 to 3038 : URL /help/
+[Sun Sep 19 00:40:26 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 5240 to 1768 : URL /contact/
+[Sun Sep 19 00:59:01 2010] [debug] mod_deflate.c(615): [client 123.125.66.31] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 01:50:33 2010] [debug] mod_deflate.c(615): [client 207.46.199.46] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 02:10:03 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /plans
+[Sun Sep 19 03:07:10 2010] [debug] mod_deflate.c(615): [client 220.181.94.233] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 03:32:31 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 19173 to 7710 : URL /terms/
+[Sun Sep 19 03:44:28 2010] [debug] mod_deflate.c(615): [client 77.88.25.26] Zlib: Compressed 0 to 2 : URL /monitor/
+[Sun Sep 19 04:44:20 2010] [debug] mod_deflate.c(615): [client 72.30.142.217] Zlib: Compressed 35 to 37 : URL /robots.txt
+[Sun Sep 19 04:44:23 2010] [debug] mod_deflate.c(615): [client 216.24.142.46] Zlib: Compressed 7151 to 2669 : URL /
+[Sat Sep 18 23:45:02 2010] [debug] mod_wsgi.c(3216): [client 64.12.237.18] mod_wsgi (pid=31568): Content length mismatch, expected 3033, response generated 0: /home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi
+[Sat Sep 18 23:45:02 2010] [debug] mod_wsgi.c(3216): [client 64.12.237.18] mod_wsgi (pid=31568): Content length mismatch, expected 2376, response generated 0: /home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi
+[Sat Sep 18 23:45:02 2010] [debug] mod_wsgi.c(3216): [client 64.12.237.18] mod_wsgi (pid=31568): Content length mismatch, expected 1821, response generated 0: /home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi
+[Sat Sep 18 23:45:02 2010] [debug] mod_wsgi.c(3216): [client 64.12.237.18] mod_wsgi (pid=31568): Content length mismatch, expected 2623, response generated 0: /home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi
+[Sat Sep 18 23:45:02 2010] [debug] mod_wsgi.c(3216): [client 64.12.237.18] mod_wsgi (pid=31568): Content length mismatch, expected 2764, response generated 0: /home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi
+[Sun Sep 19 04:50:53 2010] [debug] mod_deflate.c(615): [client 64.13.147.187] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 04:58:50 2010] [debug] mod_deflate.c(615): [client 220.181.94.233] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 05:18:07 2010] [debug] mod_deflate.c(615): [client 124.115.4.190] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 06:20:38 2010] [debug] mod_deflate.c(615): [client 66.249.71.140] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 06:20:40 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 7151 to 2669 : URL /
+[Sun Sep 19 06:20:41 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 967 to 549 : URL /static/css/reset.css, referer: http://www.quotesentinel.com/
+[Sun Sep 19 06:20:42 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 17352 to 4542 : URL /static/css/style.css, referer: http://www.quotesentinel.com/
+[Sun Sep 19 06:20:43 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 72174 to 24588 : URL /static/js/jquery.min.js, referer: http://www.quotesentinel.com/
+[Sun Sep 19 06:20:44 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 271 to 192 : URL /static/js/site.js, referer: http://www.quotesentinel.com/
+[Sun Sep 19 06:20:49 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 2767 to 1173 : URL /favicon.ico
+[Sun Sep 19 06:21:45 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 0 to 2 : URL /plans, referer: http://www.quotesentinel.com/
+[Sun Sep 19 06:21:45 2010] [debug] mod_deflate.c(615): [client 113.89.231.220] Zlib: Compressed 7646 to 2299 : URL /plans/, referer: http://www.quotesentinel.com/
+[Sun Sep 19 01:25:08 2010] [info] mod_wsgi (pid=31568): Shutdown requested 'quotesentinel'.
+[Sun Sep 19 01:25:08 2010] [info] mod_wsgi (pid=31568): Stopping process 'quotesentinel'.
+[Sun Sep 19 01:25:08 2010] [info] mod_wsgi (pid=31568): Destroy interpreter 'www.quotesentinel.com|'.
+[Sun Sep 19 01:25:08 2010] [info] mod_wsgi (pid=31568): Cleanup interpreter ''.
+[Sun Sep 19 01:25:08 2010] [info] mod_wsgi (pid=31568): Terminating Python.
+[Sun Sep 19 01:25:08 2010] [error] Exception KeyError: KeyError(-1218479472,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Sun Sep 19 06:25:08 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Mon Sep 20 17:41:35 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Mon Sep 20 17:41:35 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Mon Sep 20 22:42:26 2010] [error] [client 151.190.254.108] File does not exist: /home/quotesentinel/quotesentinel/media
+[Tue Sep 21 00:44:11 2010] [error] [client 71.202.72.255] File does not exist: /home/quotesentinel/quotesentinel/media
+[Tue Sep 21 15:46:34 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Tue Sep 21 15:46:34 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 22 06:46:21 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 22 06:46:21 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 22 16:25:28 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 22 16:25:28 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Wed Sep 22 23:20:30 2010] [error] [client 96.229.176.85] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Sep 23 07:58:43 2010] [error] [client 78.143.208.63] File does not exist: /home/quotesentinel/quotesentinel/media, referer: https://www.quotesentinel.com/register/free
+[Thu Sep 23 15:32:11 2010] [error] [client 209.31.88.130] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Sep 23 15:32:33 2010] [error] [client 209.31.88.130] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Sep 24 14:48:05 2010] [error] [client 128.221.197.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Sep 24 14:48:47 2010] [error] [client 128.221.197.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Sep 24 14:49:04 2010] [error] [client 128.221.197.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Sep 25 20:39:30 2010] [error] [client 24.117.121.240] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Sep 25 20:40:28 2010] [error] [client 24.117.121.240] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Sep 25 20:40:28 2010] [error] Hostname quotesentinel.com provided via SNI, but no hostname provided in HTTP request
+[Sun Sep 26 04:30:55 2010] [error] [client 202.96.159.254] (70007)The timeout specified has expired: mod_wsgi (pid=26188): Unable to get bucket brigade for request., referer: http://www.quotesentinel.com/monitor/
+[Sat Sep 25 23:31:00 2010] [error] [client 202.96.159.254] mod_wsgi (pid=26186): Exception occurred processing WSGI script '/home/quotesentinel/quotesentinel/deploy/quotesentinel.wsgi'.
+[Sat Sep 25 23:31:00 2010] [error] [client 202.96.159.254] IOError: failed to write data
+[Sun Sep 26 06:25:03 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Tue Sep 28 07:17:56 2010] [error] [client 203.219.135.48] File does not exist: /home/quotesentinel/quotesentinel/media, referer: https://quotesentinel.com/register/free
+[Tue Sep 28 14:52:52 2010] [error] [client 216.241.177.114] File does not exist: /home/quotesentinel/quotesentinel/media
+[Tue Sep 28 14:52:57 2010] [error] [client 216.241.177.114] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Sep 29 17:52:14 2010] [error] [client 109.157.233.53] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 09:31:23 2010] [error] [client 116.227.69.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 09:31:57 2010] [error] [client 116.227.69.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 11:33:05 2010] [error] [client 116.227.69.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 11:33:05 2010] [error] [client 116.227.69.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 11:33:08 2010] [error] [client 116.227.69.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 14:34:41 2010] [error] [client 89.140.204.114] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 14:34:44 2010] [error] [client 89.140.204.114] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 16:05:38 2010] [error] [client 98.213.50.121] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 16:05:51 2010] [error] [client 98.213.50.121] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 16:06:04 2010] [error] [client 98.213.50.121] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 01 16:13:27 2010] [error] [client 98.213.50.121] File does not exist: /home/quotesentinel/quotesentinel/media, referer: https://quotesentinel.com/register/free
+[Sat Oct 02 14:43:46 2010] [error] [client 72.231.176.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Oct 02 14:43:57 2010] [error] [client 72.231.176.69] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sun Oct 03 06:25:13 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Mon Oct 04 02:14:33 2010] [error] [client 116.227.65.123] File does not exist: /home/quotesentinel/quotesentinel/media
+[Mon Oct 04 08:31:14 2010] [error] [client 123.2.94.43] File does not exist: /home/quotesentinel/quotesentinel/media
+[Mon Oct 04 08:32:47 2010] [error] [client 123.2.94.43] File does not exist: /home/quotesentinel/quotesentinel/media
+[Mon Oct 04 11:03:49 2010] [error] [client 67.195.112.251] request failed: error reading the headers
+[Wed Oct 06 20:55:16 2010] [error] [client 69.171.128.189] File does not exist: /home/quotesentinel/quotesentinel/media, referer: https://www.quotesentinel.com/register/
+[Thu Oct 07 16:00:40 2010] [error] [client 74.232.125.248] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:05:30 2010] [error] [client 173.33.32.5] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:05:31 2010] [error] [client 173.33.32.5] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:24:46 2010] [error] [client 216.191.37.2] request failed: error reading the headers, referer: https://www.quotesentinel.com/register/free
+[Thu Oct 07 18:24:46 2010] [error] [client 216.191.37.2] request failed: error reading the headers, referer: https://www.quotesentinel.com/register/free
+[Thu Oct 07 18:24:46 2010] [error] [client 216.191.37.2] request failed: error reading the headers, referer: https://www.quotesentinel.com/register/free
+[Thu Oct 07 18:24:46 2010] [error] [client 216.191.37.2] request failed: error reading the headers, referer: https://www.quotesentinel.com/register/free
+[Thu Oct 07 18:24:47 2010] [error] [client 216.191.37.2] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:25:15 2010] [error] [client 216.191.37.2] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:29:23 2010] [error] [client 173.33.32.5] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:29:26 2010] [error] [client 173.33.32.5] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:32:15 2010] [error] [client 216.191.37.2] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 07 18:34:47 2010] [error] [client 74.198.8.57] File does not exist: /home/quotesentinel/quotesentinel/media, referer: https://quotesentinel.com/register/free
+[Sun Oct 10 01:25:05 2010] [error] Exception KeyError: KeyError(-1219646832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Sun Oct 10 06:25:05 2010] [warn] RSA server certificate CommonName (CN) `quotesentinel.com' does NOT match server name!?
+[Mon Oct 11 14:53:56 2010] [error] [client 222.124.123.73] File does not exist: /home/quotesentinel/quotesentinel/media
+[Mon Oct 11 15:02:30 2010] [error] [client 222.124.123.73] File does not exist: /home/quotesentinel/quotesentinel/media
+[Mon Oct 11 15:02:41 2010] [error] [client 222.124.123.73] File does not exist: /home/quotesentinel/quotesentinel/media
+[Tue Oct 12 03:59:21 2010] [error] [client 207.6.152.14] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 12:36:29 2010] [error] [client 76.18.0.82] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 12:36:54 2010] [error] [client 76.18.0.82] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 12:39:15 2010] [error] [client 76.18.0.82] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 12:39:18 2010] [error] [client 76.18.0.82] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 18:31:47 2010] [error] [client 91.75.160.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 18:32:12 2010] [error] [client 91.75.160.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 18:32:48 2010] [error] [client 91.75.160.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Wed Oct 13 18:33:34 2010] [error] [client 91.75.160.57] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 14 22:14:31 2010] [error] [client 178.53.149.240] File does not exist: /home/quotesentinel/quotesentinel/media
+[Thu Oct 14 22:16:17 2010] [error] [client 178.53.149.240] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 15 19:04:58 2010] [error] [client 174.32.145.2] File does not exist: /home/quotesentinel/quotesentinel/media
+[Fri Oct 15 19:06:29 2010] [error] [client 174.32.145.2] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Oct 16 00:29:57 2010] [error] [client 66.28.82.18] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Oct 16 00:30:00 2010] [error] [client 66.28.82.18] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Oct 16 04:00:41 2010] [error] [client 69.161.105.212] File does not exist: /home/quotesentinel/quotesentinel/media
+[Sat Oct 16 04:00:57 2010] [error] [client 69.161.105.212] File does not exist: /home/quotesentinel/quotesentinel/media
